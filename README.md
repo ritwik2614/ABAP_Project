@@ -7,6 +7,8 @@ In this project, faculty can read or write the details of students or faculty wh
 respective details only. All this done by login to an account or by creating new account.
 
 Prerequisites
+
+
 Basic Understanding of JAVA Programming and
 Database Technologies like PL/SQL
 
